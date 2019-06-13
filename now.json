@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "wether-project",
+  "name": "wether-project", 
   "builds": [
 	{ "src": "templates/*.html", "use": "@now/html-minifier" },
     { "src": "**/*.py", "use": "@now/python" },
